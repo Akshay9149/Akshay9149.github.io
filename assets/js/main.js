@@ -65,9 +65,9 @@ const PROFILE = {
   name: 'Akshay9149',
   email: 'akkiakshy454@gmail.com',
   phone: '+91 9149165065',
-  links: {www.linkedin.com/in/akshay-rawat-26358b37b
-    github: 'https://github.com/Akshay9149/Akshay9149.github.io.git',
-    linkedin: 'www.linkedin.com/in/akshay-rawat-26358b37b',
+  links: {
+    github: '',
+    linkedin: '',
     twitter: '#',
     kaggle: '#'
   }
